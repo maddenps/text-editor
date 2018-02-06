@@ -1,0 +1,27 @@
+Case:
+Corsair Carbide Series 100R Mid Tower Case CC-9011075-WW
+
+GPU:
+EVGA GeForce GTX 960 4GB SSC GAMING ACX 2.0+, Whisper Silent Cooling w/ Free Installed Backplate Graphics Card 04G-P4-3967-KR
+
+CPU:
+Intel Core i5-6600K 3.5GHz Quad-Core Processor
+
+CPU Cooler:
+Cooler Master Hyper TX3 54.8 CFM Sleeve Bearing CPU Cooler
+
+Motherboard:
+MSI H110M Pro-VD Micro ATX LGA1151 Motherboard
+
+Power Supply:
+EVGA 600 B1 80+ BRONZE, 600W Continuous Power, 3 Year Warranty Power Supply 100-B1-0600-KR
+
+Ram:
+Crucial Ballistix Sport 8GB (1 x 8GB) DDR4-2400 Memory
+
+Storage:
+WD Blue 1TB Desktop Hard Disk Drive - 7200 RPM SATA 6 Gb/s 64MB Cache 3.5 Inch - WD10EZEX 
+Kingston SSDNow V300 Series 120GB 2.5" Solid State Drive
+
+Monitor:
+BenQ RL2455HM 24.0" 60Hz Monitor
